@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mariops03&hide_title=false&hide_rank=false&show_icons=true&card_width=360&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariops03&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariops03&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=6&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mariops03&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="165" alt="streak graph"  />
 </div>
 
@@ -43,9 +43,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -58,6 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -68,6 +69,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mariops03/mariops03/output/snake.svg" alt="Snake animation" />
+<div align="center" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/mariops03/mariops03/output/snake.svg" alt="Snake animation" style="width: 100%;" />
+</div>
+
 
 ###
