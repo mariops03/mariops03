@@ -1,0 +1,24 @@
+name: Commit Diario
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Ejecuta el flujo de trabajo diariamente a medianoche
+  workflow_dispatch:     # Permite la ejecución manual del flujo de trabajo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Configurar Git
+        run: |
+          git config --global user.name 'mariops03'
+          git config --global user.email 'marioprieta@gmail.com'
+      - name: Checkout del repositorio
+        uses: actions/checkout@v2
+      - name: Otorgar permisos de ejecución al script
+        run: chmod +x ./.github/scripts/auto_commit.sh
+      - name: Ejecutar script de auto-commit
+        run: ./.github/scripts/auto_commit.sh
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
