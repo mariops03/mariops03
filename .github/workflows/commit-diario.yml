@@ -8,6 +8,9 @@ on:
     - cron: '0 18 * * *'  # 18:00 UTC
   workflow_dispatch:      # Permite la ejecución manual del flujo de trabajo
 
+permissions:
+  contents: write          # Otorga permisos de escritura al contenido del repositorio
+
 jobs:
   build:
     runs-on: ubuntu-latest
