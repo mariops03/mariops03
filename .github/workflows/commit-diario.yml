@@ -3,9 +3,15 @@ name: Commit Diario
 on:
   schedule:
     - cron: '0 0 * * *'   # 00:00 UTC
-    - cron: '0 6 * * *'   # 06:00 UTC
+    - cron: '24 2 * * *'  # 02:24 UTC
+    - cron: '48 4 * * *'  # 04:48 UTC
+    - cron: '12 7 * * *'  # 07:12 UTC
+    - cron: '36 9 * * *'  # 09:36 UTC
     - cron: '0 12 * * *'  # 12:00 UTC
-    - cron: '0 18 * * *'  # 18:00 UTC
+    - cron: '24 14 * * *' # 14:24 UTC
+    - cron: '48 16 * * *' # 16:48 UTC
+    - cron: '12 19 * * *' # 19:12 UTC
+    - cron: '36 21 * * *' # 21:36 UTC
   workflow_dispatch:      # Permite la ejecución manual del flujo de trabajo
 
 permissions:
