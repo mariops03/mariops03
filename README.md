@@ -14,7 +14,7 @@
 
   <!-- Row 2: GitHub stats and Top Languages -->
   <div>
-    <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=mariops03&hide_title=false&hide_rank=false&show_icons=true&card_width=360&hide=issues&show=prs_merged&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" alt="GitHub stats" height="150" />
+    <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=mariops03&hide_title=false&hide_rank=false&show_icons=true&card_width=359&hide=issues&show=prs_merged&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" alt="GitHub stats" height="150" />
     <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api/top-langs?username=mariops03&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=8&theme=material-palenight&hide_border=false" alt="Top Languages" height="150" />
   </div>
 
