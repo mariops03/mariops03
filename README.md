@@ -7,24 +7,22 @@
 ###
 
 <div align="center">
-  <!-- Row 3: Streak Stats -->
+  <!-- Row 3: Streak Stats (no cache) -->
   <div>
-    <img src="https://streak-stats.demolab.com?user=mariops03&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" alt="Streak Stats" height="165" />
+    <img src="https://streak-stats.demolab.com?user=mariops03&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&cache_seconds=0" alt="Streak Stats" height="165" />
   </div>
 
-  <!-- Row 2: GitHub stats and Top Languages -->
+  <!-- Row 2: GitHub stats & Top Languages (no cache) -->
   <div>
-    <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=mariops03&hide_title=false&hide_rank=false&show_icons=true&card_width=360&hide=issues&show=prs_merged&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" alt="GitHub stats" height="150" />
-    <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api/top-langs?username=mariops03&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=8&theme=material-palenight&hide_border=false" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=mariops03&show_icons=true&hide=issues&show=prs_merged&card_width=360&theme=material-palenight&locale=en&hide_border=false&cache_seconds=0" alt="GitHub stats" height="150" />
+    <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api/top-langs?username=mariops03&layout=compact&card_width=360&langs_count=8&theme=material-palenight&locale=en&hide_border=false&cache_seconds=0" alt="Top Languages" height="150" />
   </div>
 
-  <!-- Row 1: WakaTime stats with combined width -->
+  <!-- Row 1: WakaTime stats (no cache) -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@mariops03&theme=material-palenight&layout=compact&langs_count=8&card_width=720" alt="WakaTime stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@mariops03&theme=material-palenight&layout=compact&langs_count=8&card_width=720&cache_seconds=0" alt="WakaTime stats" height="165" />
   </div>
 </div>
-
-
 
 ###
 
