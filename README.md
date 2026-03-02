@@ -33,7 +33,7 @@
 
 **DevOps, Testing & AI**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,gcp,vercel,sentry,jest,playwright,langchain,scikitlearn&theme=dark" alt="DevOps, Testing & AI" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,gcp,vercel,sentry,jest,playwright,langchain&theme=dark" alt="DevOps, Testing & AI" />
 
 </div>
 
