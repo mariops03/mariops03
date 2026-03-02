@@ -11,8 +11,6 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-292D3E?style=for-the-badge&logo=linkedin-white&logoColor=C792EA)](https://www.linkedin.com/in/marioprieta/)
 [![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-292D3E?style=for-the-badge&logo=gmail&logoColor=C792EA)](mailto:marioprieta@gmail.com)
 
-<br>
-
 <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=mariops03&show_icons=true&hide=issues&show=prs_merged&theme=material-palenight&hide_border=false&border_radius=5&card_width=450" alt="GitHub Stats" height="165" />
 
 </div>
