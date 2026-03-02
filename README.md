@@ -8,10 +8,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marioprieta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
   </a>
   <a href="mailto:marioprieta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" width="50" alt="Email" />
   </a>
   <br><br>
   <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=mariops03&show_icons=true&hide=issues&show=prs_merged&theme=material-palenight&hide_border=false&border_radius=5&card_width=450" alt="GitHub Stats" height="165" />
