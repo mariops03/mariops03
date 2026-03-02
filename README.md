@@ -7,10 +7,14 @@
 ###
 
 <div align="center">
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marioprieta/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marioprieta@gmail.com)
-  <br><br>
-  <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=mariops03&show_icons=true&hide=issues&show=prs_merged&theme=material-palenight&hide_border=false&border_radius=5&card_width=450" alt="GitHub Stats" height="165" />
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marioprieta/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marioprieta@gmail.com)
+
+<br>
+
+<img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=mariops03&show_icons=true&hide=issues&show=prs_merged&theme=material-palenight&hide_border=false&border_radius=5&card_width=450" alt="GitHub Stats" height="165" />
+
 </div>
 
 ###
