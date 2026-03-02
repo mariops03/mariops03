@@ -19,17 +19,21 @@
 
 <div align="center">
 
+**Languages**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,java,c,cs,bash&theme=dark" alt="Languages" />
+
 **Frontend & Mobile**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,reactnative,expo,nextjs,vue,tailwind,redux,pinia&theme=dark" alt="Frontend & Mobile" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expo,nextjs,vue,tailwind,redux,pinia&theme=dark" alt="Frontend & Mobile" />
 
 **Backend & Data**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,deno,python,fastapi,flask,graphql,postgres,supabase,mongodb&theme=dark" alt="Backend & Data" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,deno,fastapi,flask,graphql,postgres,supabase,mongodb&theme=dark" alt="Backend & Data" />
 
 **DevOps, Testing & AI**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,gcp,vercel,sentry,jest,playwright,langchain,scikitlearn&theme=dark" alt="DevOps, Testing & AI" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,gcp,vercel,sentry,jest,playwright,langchain,scikitlearn&theme=dark" alt="DevOps, Testing & AI" />
 
 </div>
 
