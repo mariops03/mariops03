@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Passionate software developer focused on web development, AI, and SaaS. Skilled in full-stack development, AI integration, and scalable SaaS architecture. I’m dedicated to building efficient, real-world solutions with clean code, agile practices, and solid version control. Currently exploring projects at the intersection of web tech and emerging trends. Open to collaborations with developers and mentors to push tech boundaries and drive impactful progress.</p>
+<p align="center">I like building things that people can actually use, mostly web and mobile apps. Currently looking for the next problem worth solving.</p>
 
 ###
 
@@ -11,18 +11,6 @@
   <div>
     <img src="https://streak-stats.demolab.com?user=mariops03&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&cache_seconds=0" alt="Streak Stats" height="165" />
   </div>
-
-  <!-- Row 2: GitHub stats & Top Languages (no cache) -->
-  <div>
-    <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api?username=mariops03&show_icons=true&hide=issues&show=prs_merged&card_width=360&theme=material-palenight&locale=en&hide_border=false&cache_seconds=0" alt="GitHub stats" height="150" />
-    <img src="https://github-readme-stats-xi-ruby-33.vercel.app/api/top-langs?username=mariops03&layout=compact&card_width=360&langs_count=8&theme=material-palenight&locale=en&hide_border=false&cache_seconds=0" alt="Top Languages" height="150" />
-  </div>
-
-  <!-- Row 1: WakaTime stats (no cache) -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@mariops03&theme=material-palenight&layout=compact&langs_count=8&card_width=720&cache_seconds=0" alt="WakaTime stats" height="165" />
-  </div>
-</div>
 
 ###
 
