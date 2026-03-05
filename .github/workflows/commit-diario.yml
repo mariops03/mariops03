@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Configurar Git
         run: |
-          git config --global user.name 'mariops03'
+          git config --global user.name 'marioprieta'
           git config --global user.email 'marioprieta@gmail.com'
       - name: Checkout del repositorio
         uses: actions/checkout@v2
